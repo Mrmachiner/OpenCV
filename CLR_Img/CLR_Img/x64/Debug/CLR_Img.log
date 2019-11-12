@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\minhhoang\source\repos\clr_img\clr_img\myform.cpp(7): warning C4551: function call missing argument list
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\MinhHoang\source\repos\CLR_Img\x64\Debug\CLR_Img.exe : fatal error LNK1120: 1 unresolved externals

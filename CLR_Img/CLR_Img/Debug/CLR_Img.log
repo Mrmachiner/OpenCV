@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\minhhoang\source\repos\clr_img\clr_img\myform.cpp(7): warning C4551: function call missing argument list
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CLR_Img.vcxproj -> C:\Users\MinhHoang\source\repos\CLR_Img\Debug\CLR_Img.exe
